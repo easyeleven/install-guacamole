@@ -165,7 +165,8 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is licensed under the terms of the Apache 2.0 license. See the [LICENSE](https://github.com/notabombe/install-guacamole/blob/master/LICENSE) file for details.
+
 
 ---
 
